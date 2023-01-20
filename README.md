@@ -1,1 +1,3 @@
 # Web-Scraping-Player-Ranking-From-ICC-With-Python-and-BeatutifulSoup
+
+In this project, I utilized Python and the BeautifulSoup library to scrape player rankings from the International Cricket Council (ICC) website. The user was able to input their desired ranking criteria, and the program would scrape the relevant information from the ICC website. I used the requests library to download the website and BeautifulSoup to extract the HTML. The scraped data was then organized and stored in CSV files using panda's library. This project resulted in the creation of three CSV files, each with 101 rows and five columns of player ranking data.
